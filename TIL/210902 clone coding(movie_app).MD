@@ -16,7 +16,7 @@
 
 [https://ksh5324.github.io/movie_app_2019-clone-coding-/](https://ksh5324.github.io/movie_app_2019-clone-coding-/)
 
-![movieapp](./img/movie_app.png)
+![movieapp](../img/movie_app.png)
 
 <br />
 
@@ -28,4 +28,4 @@
 
 > cns project에 관하여 디자인 및 기능에 관해 회의 하였습니다.
 
-![CNS](./img/CNSproject.png)
+![CNS](../img/CNSproject.png)
